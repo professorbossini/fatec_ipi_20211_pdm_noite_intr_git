@@ -5,5 +5,6 @@ public class EntregaGit{
     JOptionPane.showMessageDialog(null, String.format("Bem vindo, %s", nome));
     //outra funcionalidade
     //mais uma
+    //outra
   }
 }
